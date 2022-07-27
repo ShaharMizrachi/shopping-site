@@ -1,0 +1,19 @@
+.container {
+  display: flex !important ;
+}
+
+/* .item {
+  flex-basis: 100px !important ;
+  height: 300px !important ;
+  margin: 5px !important ;
+  text-align: -webkit-right !important  ;
+} */
+.imgCatalog {
+  width: 90%;
+  /* height: 90%; */
+  height: 170px;
+}
+
+.css-imf0nl-MuiDataGrid-root {
+  height: 79% !important;
+}
